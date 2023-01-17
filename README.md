@@ -1,8 +1,6 @@
 ## 안녕하세요! 저는 웹 개발자입니다. 
 #### **어느 개발 영역이던지 프로페셔널한 웹 개발자**(Full-Stack Developer)가 되기 위해 열심히 노력하고 있습니다.
 
-
-
 🙋‍♂️**PROFILE.**
 
 > - 정창훈 (ChangHoon Jung)
@@ -13,11 +11,15 @@
 
 ⚙**TECH STACK.**
 
-> - **Java**, **Python**, **C++**, **Javascript**, **CSS**
-> - **Spring**, **JPA**, **JSP**, **Django**, **Vue**, **Vuex**, React, NodeJS, Express, **Jquery**
-> - **DRF**, Flask
-> - Oracle, MySQL
-> - Docker, Jenkins
-> - Elasticsearch
-> - Git, SubVersion(SVN)
-> - Linux, HP-UX
+> - **`Java`**, **`Python`**, **`C++`**, **`Javascript`**, **`CSS`**
+> - **`Spring`**, **`JPA`**, **`JSP`**, **`Django`**, **`Vue`**, **`Vuex`**, **`Nuxt.js`**, `React`, `Node.js`, `Express`, **`Jquery`**
+> - **`DRF`**, `Flask`
+> - `Oracle`, `MySQL`
+> - `Docker`, `Jenkins`
+> - `Elasticsearch`
+> - `Git`, `SubVersion(SVN)`
+> - `Linux`, `HP-UX`
+
+🎯**What I'm interested in is...**
+
+> - **Everything...** 😅
