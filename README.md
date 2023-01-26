@@ -11,10 +11,10 @@
 
 ⚙**TECH STACK.**
 
-> - **`Java🔥`**, **`Python`**, **`C++🔥`**, **`Javascript(ES6)🔥`**, **`CSS`**
-> - **`Vue.js🔥`**, **`Nuxt.js`** / **`React.js`**, **`next.js`** / **`Jquery`**
-> - **`Spring🔥`**, **`JPA🔥`** / **`Django`**, **`DRF`**, `Flask` / **`Node.js`**, **`Express`**
-> - **`Tailwind CSS🔥`**, **`Bootstrap`**
+> - **`Java`**, **`Python`**, **`C++`**, **`Javascript(ES6)`**, **`CSS`**
+> - **`Vue.js`**, **`Nuxt.js`** / **`React.js`**, **`next.js`** / **`Jquery`**
+> - **`Spring`**, **`JPA`** / **`Django`**, **`DRF`**, `Flask` / **`Node.js`**, **`Express`**
+> - **`Tailwind CSS`**, **`Bootstrap`**
 > - `Oracle`, `MySQL`
 > - `Docker`, `Jenkins`
 > - `Elasticsearch`
