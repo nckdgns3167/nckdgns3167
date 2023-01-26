@@ -13,7 +13,7 @@
 
 > - **`Java`**, **`Python`**, **`C++`**, **`Javascript(ES6)`**, **`CSS`**
 > - **`Spring`**, **`JPA`**, **`JSP`**, **`Django`**, **`Vue.js`**, **`Nuxt.js`**, **`React.js`**, **`Node.js`**, **`Express`**, **`Jquery`**
-> - **`Tailwind CSS`**
+> - **`Tailwind CSS`**, **`Bootstrap`**
 > - **`DRF`**, `Flask`
 > - `Oracle`, `MySQL`
 > - `Docker`, `Jenkins`
