@@ -11,14 +11,16 @@
 
 ⚙**TECH STACK.**
 
-> - **`Java`**, **`Python`**, **`C++`**, **`Javascript`**, **`CSS`**
-> - **`Spring`**, **`JPA`**, **`JSP`**, **`Django`**, **`Vue`**, **`Vuex`**, **`Nuxt.js`**, `React`, `Node.js`, `Express`, **`Jquery`**
+> - **`Java`**, **`Python`**, **`C++`**, **`Javascript(ES6)`**, **`CSS`**
+> - **`Spring`**, **`JPA`**, **`JSP`**, **`Django`**, **`Vue.js`**, **`Nuxt.js`**, **`React.js`**, **`Node.js`**, **`Express`**, **`Jquery`**
+> - **`Tailwind CSS`**
 > - **`DRF`**, `Flask`
 > - `Oracle`, `MySQL`
 > - `Docker`, `Jenkins`
 > - `Elasticsearch`
 > - `Git`, `SubVersion(SVN)`
 > - `Linux`, `HP-UX`
+> - `OZ`, `MarkAny`
 
 🎯**What I'm interested in is...**
 
