@@ -11,7 +11,7 @@
 
 ⚙**TECH STACK.**
 
-> - **`Java`**, **`Python`**, **`C++(Algorithm)`**, **`Javascript(ES6)`**, **`CSS`**
+> - **`Java`**, **`Python`**, **`C++(Algorithm)`**, **`Javascript(ES6, TypeScript)`**, **`CSS`**
 > - **`Vue.js`**, **`Nuxt.js`** / `React.js`, `next.js` / **`Jquery`**
 > - **`Spring`**, **`JPA`** / **`Django`**, **`DRF`**, `Flask` / **`Node.js`**, **`Express`**
 > - **`Tailwind CSS`**, **`Bootstrap`**
