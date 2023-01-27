@@ -19,8 +19,8 @@
 > - `Docker`, `Jenkins`
 > - `Elasticsearch`
 > - `Git`, `SubVersion(SVN)`
-> - `Linux`, `HP-UX`
 > - `OZ`, `MarkAny`
+> - 궁금한 기술: `Quasar`, `Astro`, `FastAPI`, `Cloud`, `Flutter` 
 
 🎯**What I'm interested in is...**
 
