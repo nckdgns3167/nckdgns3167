@@ -12,7 +12,9 @@
 ⚙**TECH STACK.**
 
 > - **`Java`**, **`Python`**, **`C++(Algorithm)`**, **`Javascript(ES6, TypeScript)`**, **`CSS`**
-> - **`Vue.js 2`**, **`Vue.js 3`**, **`Nuxt.js`** / **`React.js`**, **`next.js`** / **`Jquery`**
+> - **`Vue.js 2`**, **`Vue.js 3`**, **`Vuex`**, **`Pinia`**, **`Nuxt.js`**
+> - **`React.js`**, **`next.js`**
+> - **`Jquery`**
 > - **`Spring`**, **`JPA`** / **`Django`**, **`DRF`**, `Flask` / **`Node.js`**, **`Express`**
 > - **`Tailwind CSS`**, **`Bootstrap`**
 > - `Oracle`, `MySQL`
