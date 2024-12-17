@@ -1,7 +1,10 @@
 ## 찾아 주셔서 감사합니다. 
 
-저는 웹 개발자입니다. 
+저는 웹 개발자로서 일하고 있습니다. 이 공간은 제가 개발자로서 앞으로 어떤 것을 하고 싶어 하는지 엿볼 수 있는 곳입니다. 
 
+하고 싶은 것이 있다는 것, 즉 꿈이 있다는 것은 어쩌면 가장 큰 축복일 수 있다고 생각합니다.
+
+이제는 믿고 꾸준히 나아갈 차례입니다. 
 
 🙋‍♂️**PROFILE.**
 
@@ -15,8 +18,8 @@
 ⚙**TECH STACK.**
 
 > - **`Java`**, `Python`, **`Javascript`**, **`TypeScript`**
-> - **`React.js`**, **`vue.js`**, `JQuery`
-> - **`Spring`**, `Django`, **`next.js`**
+> - **`React.js`**, `vue.js`, `JQuery`
+> - **`Spring`**, **`next.js`**, `Django`
 > - **`Tailwind CSS`**, `Bootstrap`, `Antd`
 > - `Oracle`, `MySQL`
 > - `InfluxDB`
@@ -29,6 +32,7 @@
 🎯**What I'm interested in is...**
 
 > - 리팩터링
+> - 최적화 기법
 > - 선언적으로 코드 작성하기(함수형 프로그래밍)
 > - 공통 모듈 개발
 > - 유지보수 혹은 가독성 좋은 코드 작성
