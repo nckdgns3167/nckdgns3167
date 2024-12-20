@@ -14,6 +14,7 @@
 
 > - **`Java`**, `Python`, **`Javascript`**, **`TypeScript`**
 > - **`React.js`**, `vue.js`, `JQuery`
+> - **`Recoil`**, **`Redux`**
 > - **`Spring`**, **`next.js`**, `Django`
 > - **`Tailwind CSS`**, `Bootstrap`, `Antd`
 > - `Oracle`, `MySQL`
