@@ -12,7 +12,7 @@
 
 ⚙**TECH STACK.**
 
-> - **`Java`**, `Python`, **`Javascript`**, **`TypeScript`**
+> - **`Java 8`**, `Python`, **`Javascript(ES6)`**, **`TypeScript`**
 > - **`React.js`**, `vue.js`, `JQuery`
 > - **`Recoil`**, **`Redux`**
 > - **`Spring`**, **`next.js`**, `Django`
