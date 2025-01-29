@@ -12,11 +12,13 @@
 
 ⚙**TECH STACK.**
 
-> - **`Java 8`**, `Python`, **`Javascript(ES6)`**, **`TypeScript`**
+> - **`Java 8`**, `Python`, **`Javascript`**, **`TypeScript`**
 > - **`React.js`**, `vue.js`, `JQuery`
+> - **`React query`**
 > - **`Recoil`**, **`Redux`**
 > - **`Spring`**, **`next.js`**, `Django`
-> - **`Tailwind CSS`**, `Bootstrap`, `Antd`
+> - **`Emotion`**, `SCSS`, `classnames`, `Tailwind`, `Bootstrap`, `Antd`
+> - `firebase`
 > - `Oracle`, `MySQL`
 > - `InfluxDB`
 > - `Elasticsearch`
