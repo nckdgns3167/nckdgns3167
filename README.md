@@ -23,13 +23,13 @@
 >   - 그 만큼 아직 부족하다는 것이고 공부가 필요하다는 것... 평생 공부해야할 부분...
 
 
-⚙**TECH STACK.** (볼드체로된 것들은 주로 사용하는 것 혹은 앞으로도 관심가질 것들 입니다.)
+⚙**TECH STACK.** (볼드체로된 것들은 주로 사용하는 것 혹은 관심을 갖고 공부중인 것들 입니다.)
 
 > - **`Javascript`**, **`TypeScript`**, **`Java 8`**, `Python`
 > - **`React.js`**, `JQuery`
-> - **`React Query(TanStack Query)`**, **`Zustand`**, `Jotai`, `Recoil`, `Redux`
+> - **`React Query(TanStack Query)`**, **`ContextAPI`**, **`Zustand`**, `Recoil`, `Redux`
 > - **`Next.js`**, **`Spring`**, `Django`
-> - **`Emotion`**, **`Tailwind`**, **`Framer-Motion`**
+> - **`Emotion`**, **`Tailwindcss`**, **`Framer-Motion`**
 > - **`supabase`**, **`firebase`**
 > - `Bootstrap`, `Antd`
 > - `Flask`, `FastAPI`
