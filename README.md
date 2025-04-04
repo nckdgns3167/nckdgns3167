@@ -28,7 +28,7 @@
 > - **`React.js`**, `JQuery`
 > - **`React Query(TanStack Query)`**, **`ContextAPI`**, **`Zustand`**, `Recoil`, `Redux`
 > - **`Next.js`**, **`Spring`**, `Django`
-> - **`Emotion`**, **`Tailwindcss`**, **`Framer-Motion`**
+> - **`Emotion`**, **`Tailwindcss`**, **`Framer-Motion`**, `Bootstrap`
 > - **`supabase`**, **`firebase`**
 > - `Bootstrap`, `Antd`
 > - `Flask`, `FastAPI`
