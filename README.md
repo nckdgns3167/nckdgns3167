@@ -1,41 +1,58 @@
-## 안녕하세요. 😏
-### 저는 JS를 사랑하는 웹 개발자입니다. 
-
-🙋‍♂️**PROFILE.**
-
-> - **정창훈** (ChangHoon Jung)
-> - 1993.03.05
-> - Euclidsoft (2020.09 ~ 재직중)
-> - Daejeon, Korea
-> - nckdgns3167@naver.com
- 
-
-🎯**What I'm interested in is...**
-
-> - 코드 최적화, 리팩터링
-> - 선언적으로 코드 작성(함수형 프로그래밍 지향)
-> - 공통 모듈 개발
-> - 유지보수 혹은 가독성 좋은 코드 작성
-> - 특정 기술이 왜 좋은지 알고 사용하기. 좋다고 하니 그냥 사용하지 말고.
-> - 다른 이들에게 용어 또는 기술이 무엇이고 왜 좋고 나쁜지 설명할 수 있는 이론적 지식 쌓기
->   - 몸소 경험했기에 좋은 걸 아는데, 설명할 수 없으면 결국 무용지물... 아무도 알아주지 않음.
->   - 그 만큼 아직 부족하다는 것이고 공부가 필요하다는 것... 평생 공부해야할 부분...
+## 👋 안녕하세요, 정창훈입니다.
+> JavaScript와 React를 사랑하는 웹 개발자입니다.
 
 
-⚙**TECH STACK.** (강조된 것들은 주로 사용하는 것 혹은 관심을 갖고 공부중인 것들 입니다.)
 
-> - **`Javascript`**, **`TypeScript`**, **`Java 8`**, `Python`
-> - **`React.js`**, `JQuery`
-> - **`React Query(TanStack Query)`**, **`ContextAPI`**, **`Zustand`**, `Recoil`, `Redux`
-> - **`Next.js`**, **`Spring`**, `Django`
-> - **`Emotion`**, **`Tailwindcss`**, **`Framer-Motion`**, `Bootstrap`
-> - **`supabase`**, **`firebase`**
-> - `Bootstrap`, `Antd`
-> - `Flask`, `FastAPI`
-> - `Oracle`, `MySQL`
-> - `InfluxDB`
-> - `Elasticsearch`
-> - `Docker`, `Jenkins`
-> - `Git`, `SVN`
-> - `OZ`, `MarkAny`
+### 🙋‍♂️ Profile
 
+- **이름**: 정창훈 (ChangHoon Jung)
+- **생년월일**: 1993.03.05
+- **현재 소속**: Euclidsoft (2020.09 ~ 재직 중)
+- **거주지**: 대전, 대한민국
+- **이메일**: nckdgns3167@naver.com
+
+
+
+### 🎯 Dev Principles & Interests
+
+- **가독성과 유지보수가 뛰어난 코드** 작성
+- **선언형(Declarative)**, **함수형 프로그래밍(Function Programming)** 지향
+- **코드 리팩터링**과 **성능 최적화**에 대한 지속적인 고민
+- **공통 모듈화**를 통한 일관된 아키텍처 설계
+- 기술을 사용할 때 **이유를 알고 선택**하기
+- 다른 개발자에게 기술을 **명확히 설명할 수 있는 이론적 이해**의 중요성 인식
+- 경험을 통해 얻은 지식도 **표현하지 못하면 무용지물**, 항상 공부하고 정리하려 노력
+
+
+
+### ⚙️ Tech Stack
+
+
+- #### Language & Frameworks
+  - **`JavaScript`**, **`TypeScript (deepening)`**, **`Java 8`**, `Python`
+  - **`React.js`**, `JQuery`
+  - **`Next.js (deepening)`**, **`Spring`**, `Django`, `Flask`, `FastAPI`
+
+- #### State Management
+  - **`React Query`**, **`Context API`**, **`Zustand (learning)`**
+  - `Recoil`, `Redux`
+
+- #### Styling & Animation
+  - **`Emotion`**, **`Tailwind CSS`**, **`Framer Motion`**
+  - `Bootstrap`, `Ant Design`
+
+- #### Backend & DB
+  - `Oracle`, `MySQL`, `InfluxDB`, `Elasticsearch`
+  - **`Supabase (exploring)`**, **`Firebase (exploring)`**
+
+- #### DevOps & Tools
+  - `Docker`, `Jenkins`
+  - `Git`, `SVN`
+  - `OZ Report`, `MarkAny`
+
+
+
+### 💡 한마디
+
+> "좋은 개발자는 기술을 잘 사용하는 사람을 넘어, **왜** 그 기술을 선택했는지를 설명할 수 있는 사람이라 생각합니다.  
+> 끊임없이 배우고, 정리하고, 공유하며 성장하는 개발자가 되고자 합니다."
