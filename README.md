@@ -5,7 +5,6 @@
 
 > - **정창훈** (ChangHoon Jung)
 > - 1993.03.05
-> - Modutech (2019.08 ~ 2019.12)
 > - Euclidsoft (2020.09 ~ 재직중)
 > - Daejeon, Korea
 > - nckdgns3167@naver.com
@@ -23,7 +22,7 @@
 >   - 그 만큼 아직 부족하다는 것이고 공부가 필요하다는 것... 평생 공부해야할 부분...
 
 
-⚙**TECH STACK.** (볼드체로된 것들은 주로 사용하는 것 혹은 관심을 갖고 공부중인 것들 입니다.)
+⚙**TECH STACK.** (강조된 것들은 주로 사용하는 것 혹은 관심을 갖고 공부중인 것들 입니다.)
 
 > - **`Javascript`**, **`TypeScript`**, **`Java 8`**, `Python`
 > - **`React.js`**, `JQuery`
