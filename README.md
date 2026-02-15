@@ -1,4 +1,4 @@
-# 안녕하세요, 정창훈입니다.
+# 안녕하세요, 프론트엔드 개발자 정창훈입니다.
 
 **복잡한 시스템도 단순하게 느껴지는 인터페이스를 만듭니다.**
 
@@ -44,14 +44,4 @@ AI 어시스턴트 기반 스마트 분석 캔버스
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-<br>
-
-### GitHub 활동
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nckdgns3167&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nckdgns3167&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nckdgns3167&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
-</picture>
 
