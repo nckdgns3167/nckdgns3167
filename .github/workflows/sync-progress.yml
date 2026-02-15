@@ -81,14 +81,18 @@ jobs:
           empty = 10 - filled
           bar_line = '▓' * filled + '░' * empty + f' **{percentage}%**'
 
-          # 단계 라인 생성
+          # 단계 라인 생성 (완료: ✅, 현재: 🔨 **볼드**, 미진행: 일반)
           stages = ['기획', '설계', '개발', '테스트', '배포']
           parts = []
+          found_current = False
           for s in stages:
               if s == stage:
-                  parts.append(f'**`{s}`**')
+                  parts.append(f'🔨 **{s}**')
+                  found_current = True
+              elif not found_current:
+                  parts.append(f'✅ {s}')
               else:
-                  parts.append(f'`{s}`')
+                  parts.append(s)
           stage_line = ' → '.join(parts)
 
           # 메모 라인
