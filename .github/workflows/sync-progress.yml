@@ -92,7 +92,7 @@ jobs:
           stage_line = ' → '.join(parts)
 
           # 메모 라인
-          memo_line = f'> 📌 {memo}'
+          memo_line = f'> 📌 최근 작업: {memo}'
 
           # README 라인 단위 교체
           with open('README.md', 'r', encoding='utf-8') as f:
