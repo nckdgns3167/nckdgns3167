@@ -17,6 +17,9 @@ AI 어시스턴트 기반 스마트 분석 캔버스
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
 
+▓▓░░░░░░░░ **15%**
+`기획` → **`설계`** → `개발` → `테스트` → `배포`
+
 <br>
 
 ### 기술 스택
