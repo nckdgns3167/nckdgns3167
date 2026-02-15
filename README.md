@@ -18,9 +18,9 @@ AI 어시스턴트 기반 스마트 분석 캔버스
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
 
 ▓▓▓▓░░░░░░ **35%**
-`기획` → `설계` → **`개발`** → `테스트` → `배포`
+✅ 기획 → ✅ 설계 → 🔨 **개발** → 테스트 → 배포
 
-> 📌 최근 작업: 기획/설계 Phase 0 완료, Phase 1 개발 준비 완료
+> 📌 최근 작업: 단계 표시 형식 개선 (✅/🔨)
 
 <sub>이 섹션은 개발 진행에 따라 자동 갱신됩니다.</sub>
 
