@@ -13,25 +13,26 @@
 
 <br>
 
-### 🔥 현재 진행중인 사이드 프로젝트
+### 🔥 현재 진행중인 사이드 프로젝트 `auto-updated`
 
-> **(가제) Project Sage** · AI 어시스턴트 기반 스마트 분석 캔버스
+▸ **코드네임**
+> (가제) Project Sage
+
+▸ **키워드**
+> `AI 대화형 분석` · `실시간 시나리오 시각화` · `데이터 기반 의사결정`
+
+▸ **기술 스택**
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+> ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
+
+▸ **진행 상황**
+> ▓▓▓▓░░░░░░ **35%**
 >
-> _실제 프로젝트를 기반으로 한 추상화된 소개입니다_
-
-**기술 스택**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
-
-**진행 상황**
-
-▓▓▓▓░░░░░░ **35%**
-✅ 기획 → ✅ 설계 → 🔨 **개발** → 테스트 → 배포
-
+> ✅ 기획 → ✅ 설계 → 🔨 **개발** → 테스트 → 배포
+>
 > 📌 최근 작업: 프로필 README 구조 개선
 
-<sub>이 섹션은 개발 진행에 따라 자동 갱신됩니다.</sub>
+<sub>_실제 프로젝트를 기반으로 한 추상화된 소개입니다_</sub>
 
 <br>
 

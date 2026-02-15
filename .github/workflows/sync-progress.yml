@@ -79,7 +79,7 @@ jobs:
           # 프로그레스 바 생성
           filled = min(max((percentage + 5) // 10, 0), 10)
           empty = 10 - filled
-          bar_line = '▓' * filled + '░' * empty + f' **{percentage}%**'
+          bar_line = '> ' + '▓' * filled + '░' * empty + f' **{percentage}%**'
 
           # 단계 라인 생성 (완료: ✅, 현재: 🔨 **볼드**, 미진행: 일반)
           stages = ['기획', '설계', '개발', '테스트', '배포']
@@ -93,7 +93,7 @@ jobs:
                   parts.append(f'✅ {s}')
               else:
                   parts.append(s)
-          stage_line = ' → '.join(parts)
+          stage_line = '> ' + ' → '.join(parts)
 
           # 메모 라인
           memo_line = f'> 📌 최근 작업: {memo}'
