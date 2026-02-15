@@ -6,6 +6,10 @@
 
 새로운 기술과 더 나은 방법을 찾아 꾸준히 학습하고, 그것을 팀과 제품에 녹여내는 과정을 즐깁니다.
 
+[![Email](https://img.shields.io/badge/nckdgns3167@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:nckdgns3167@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%BD%ED%9B%88-%EC%A0%95-4545a435a/)
+[![GitHub](https://img.shields.io/badge/nckdgns3167-181717?style=flat&logo=github&logoColor=white)](https://github.com/nckdgns3167)
+
 <br>
 
 ### 🔥 사이드 프로젝트
@@ -51,10 +55,3 @@ AI 어시스턴트 기반 스마트 분석 캔버스
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nckdgns3167&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" />
 </picture>
 
-<br>
-
-### 연락처
-
-[![Email](https://img.shields.io/badge/nckdgns3167@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:nckdgns3167@naver.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%BD%ED%9B%88-%EC%A0%95-4545a435a/)
-[![GitHub](https://img.shields.io/badge/nckdgns3167-181717?style=flat&logo=github&logoColor=white)](https://github.com/nckdgns3167)
