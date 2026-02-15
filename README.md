@@ -3,13 +3,16 @@
 **복잡한 시스템도 단순하게 느껴지는 인터페이스를 만듭니다.**
 
 선언적이고 읽기 쉬운 코드를 지향하며, 재사용 가능한 구조 설계에 집중합니다.
+
 새로운 기술과 더 나은 방법을 찾아 꾸준히 학습하고, 그것을 팀과 제품에 녹여내는 과정을 즐깁니다.
 
 <br>
 
-### 🚧 현재 진행 중인 프로젝트
+### 🔥 사이드 프로젝트
 
-**Project Sage** — AI 어시스턴트 기반 스마트 분석 캔버스
+**Project Sage** · _실제 프로젝트를 기반으로 한 추상화된 소개입니다_
+
+AI 어시스턴트 기반 스마트 분석 캔버스
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
