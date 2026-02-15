@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://nckdgns3167.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/nckdgns3167@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:nckdgns3167@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%BD%ED%9B%88-%EC%A0%95-4545a435a/)
-[![GitHub](https://img.shields.io/badge/nckdgns3167-181717?style=flat&logo=github&logoColor=white)](https://github.com/nckdgns3167)
 
 <br>
 
