@@ -6,6 +6,7 @@
 
 새로운 기술과 더 나은 방법을 찾아 꾸준히 학습하고, 그것을 팀과 제품에 녹여내는 과정을 즐깁니다.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://nckdgns3167.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/nckdgns3167@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:nckdgns3167@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%B0%BD%ED%9B%88-%EC%A0%95-4545a435a/)
 [![GitHub](https://img.shields.io/badge/nckdgns3167-181717?style=flat&logo=github&logoColor=white)](https://github.com/nckdgns3167)
