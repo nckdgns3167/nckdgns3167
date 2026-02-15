@@ -1,0 +1,126 @@
+name: Sync Side Project Progress
+
+# 주 1회 자동 갱신 (백업) + 수동 실행 가능
+on:
+  schedule:
+    # 매주 일요일 21:00 KST (12:00 UTC)
+    - cron: '0 12 * * 0'
+  workflow_dispatch: # 수동 트리거 (테스트용)
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Query chartsage issues and calculate progress
+        env:
+          GH_TOKEN: ${{ secrets.CHARTSAGE_PAT }}
+        run: |
+          # chartsage private repo에서 이슈 조회
+          TOTAL=$(gh issue list --repo nckdgns3167/chartsage --state all --limit 500 --json number -q 'length' || echo "0")
+          CLOSED=$(gh issue list --repo nckdgns3167/chartsage --state closed --limit 500 --json number -q 'length' || echo "0")
+
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "이슈 없음, 스킵"
+            echo "SKIP=true" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          PERCENTAGE=$(( (CLOSED * 100 + TOTAL / 2) / TOTAL ))
+          [ "$PERCENTAGE" -gt 100 ] && PERCENTAGE=100
+
+          echo "전체: $TOTAL, 완료: $CLOSED, 진행률: ${PERCENTAGE}%"
+
+          # 활성 Phase 결정 (가장 낮은 open phase)
+          ACTIVE_PHASE=""
+          for p in 1 2 3 4 5 6; do
+            OPEN_COUNT=$(gh issue list --repo nckdgns3167/chartsage --state open --label "phase:${p}" --json number -q 'length' || echo "0")
+            if [ "$OPEN_COUNT" -gt 0 ]; then
+              ACTIVE_PHASE=$p
+              break
+            fi
+          done
+
+          # Phase → Stage 매핑
+          case ${ACTIVE_PHASE:-0} in
+            1|2|3|4) STAGE="개발" ;;
+            5) STAGE="테스트" ;;
+            6) STAGE="배포" ;;
+            0) [ "$PERCENTAGE" -ge 100 ] && STAGE="배포" || STAGE="개발" ;;
+          esac
+
+          # 최근 닫힌 이슈 제목으로 메모 생성
+          LAST_TITLE=$(gh issue list --repo nckdgns3167/chartsage --state closed --limit 1 --json title -q '.[0].title' || echo "")
+          if [ -n "$LAST_TITLE" ]; then
+            MEMO="${LAST_TITLE} 완료"
+          else
+            MEMO="개발 진행 중"
+          fi
+
+          echo "PERCENTAGE=${PERCENTAGE}" >> $GITHUB_ENV
+          echo "STAGE=${STAGE}" >> $GITHUB_ENV
+          echo "MEMO=${MEMO}" >> $GITHUB_ENV
+          echo "SKIP=false" >> $GITHUB_ENV
+
+      - name: Update README.md
+        if: env.SKIP != 'true'
+        run: |
+          python3 << 'PYEOF'
+          import os
+
+          percentage = int(os.environ['PERCENTAGE'])
+          stage = os.environ['STAGE']
+          memo = os.environ['MEMO']
+
+          # 프로그레스 바 생성
+          filled = min(max((percentage + 5) // 10, 0), 10)
+          empty = 10 - filled
+          bar_line = '▓' * filled + '░' * empty + f' **{percentage}%**'
+
+          # 단계 라인 생성
+          stages = ['기획', '설계', '개발', '테스트', '배포']
+          parts = []
+          for s in stages:
+              if s == stage:
+                  parts.append(f'**`{s}`**')
+              else:
+                  parts.append(f'`{s}`')
+          stage_line = ' → '.join(parts)
+
+          # 메모 라인
+          memo_line = f'> 📌 {memo}'
+
+          # README 라인 단위 교체
+          with open('README.md', 'r', encoding='utf-8') as f:
+              lines = f.readlines()
+
+          new_lines = []
+          for line in lines:
+              stripped = line.rstrip('\n')
+              if '▓' in stripped or '░' in stripped:
+                  new_lines.append(bar_line + '\n')
+              elif '기획' in stripped and '배포' in stripped and '→' in stripped:
+                  new_lines.append(stage_line + '\n')
+              elif '📌' in stripped:
+                  new_lines.append(memo_line + '\n')
+              else:
+                  new_lines.append(line)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.writelines(new_lines)
+
+          print(f'✅ 갱신 완료: {bar_line}')
+          print(f'   단계: {stage_line}')
+          print(f'   메모: {memo_line}')
+          PYEOF
+
+      - name: Commit and push if changed
+        if: env.SKIP != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "변경 없음, 커밋 생략" && exit 0
+          git add README.md
+          git commit -m "사이드 프로젝트 진행률 갱신: ${PERCENTAGE}% ${STAGE} (자동)"
+          git push
