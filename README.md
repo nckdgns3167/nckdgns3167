@@ -7,6 +7,15 @@
 
 <br>
 
+### 🚧 현재 진행 중인 프로젝트
+
+**Project Sage** — AI 어시스턴트 기반 스마트 분석 캔버스
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
+
+<br>
+
 ### 기술 스택
 
 **프론트엔드**
@@ -21,14 +30,6 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-<br>
-
-### 지금 만들고 있는 것
-
-**Project Sage** — AI 어시스턴트 기반 스마트 분석 캔버스
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
 
 <br>
 
