@@ -46,9 +46,11 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Emotion](https://img.shields.io/badge/Emotion-D36AC2?style=flat&logo=emotion&logoColor=white)
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![PrimeVue](https://img.shields.io/badge/PrimeVue-4DB8A1?style=flat&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+
+![PrimeVue](https://img.shields.io/badge/PrimeVue-4DB8A1?style=flat&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 **백엔드 / 인프라**
 
