@@ -25,11 +25,11 @@
 > ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_AI-D4A574?style=flat&logo=anthropic&logoColor=white)
 
 ▸ **진행 상황** — _GitHub Issues에 의한 진행률 반영_
-> ▓▓▓▓▓▓░░░░ **55%**
+> ▓▓▓▓▓▓░░░░ **60%**
 >
 > ✅ 기획 → ✅ 설계 → 🔨 **개발** → 테스트 → 배포
 >
-> 📌 최근 작업: Issue #1~#4 완료 (프로젝트 셋업, Biome, Husky, Vitest), Phase 1 개발 진행 중
+> 📌 최근 작업: Issue #5 GitHub Actions CI 파이프라인 구성 완료
 
 <sub>_현재 개발 진행 중인 개인 프로젝트로, MVP 배포 후 상세 내용을 공개할 예정입니다_</sub>
 
