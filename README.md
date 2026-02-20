@@ -22,7 +22,7 @@
 
 ▸ **기술 스택**
 > ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-> ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat&logo=tradingview&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+> ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white) ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat&logo=tradingview&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat&logo=binance&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ▸ **진행 상황** — _GitHub Issues에 의한 진행률 반영_
 > ▓▓▓▓▓░░░░░ **50%**
