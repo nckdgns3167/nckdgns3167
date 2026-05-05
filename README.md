@@ -12,29 +12,6 @@
 
 <br>
 
-### 🔥 현재 진행중인 사이드 프로젝트
-
-▸ **코드네임**
-> (가제) Project 'Sage'
-
-▸ **키워드**
-> `AI 대화형 분석` · `실시간 시나리오 시각화` · `데이터 기반 의사결정`
-
-▸ **기술 스택**
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-> ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white) ![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat&logo=tradingview&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat&logo=binance&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-▸ **진행 상황** — _GitHub Issues에 의한 진행률 반영_
-> ▓▓▓▓▓░░░░░ **50%**
->
-> ✅ 기획 → ✅ 설계 → 🔨 **개발** → 테스트 → 배포
->
-> 📌 최근 작업: [Phase 0] 프로필 README 진행률 자동 갱신 시스템 완료
-
-<sub>_현재 개발 진행 중인 개인 프로젝트로, MVP 배포 후 상세 내용을 공개할 예정입니다_</sub>
-
-<br>
-
 ### 기술 스택
 
 **프론트엔드**
